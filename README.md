@@ -1,6 +1,6 @@
 # Gist-Automation-Test
 
-Testing Framework : Katalon Studio Version 5.10.1
+Testing Framework : Katalon Studio Version 5.10.0
 
 How to run : 
 1. Open Project using Katalon Studio
